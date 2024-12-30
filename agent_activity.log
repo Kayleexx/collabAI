@@ -1,0 +1,72 @@
+2024-12-30 16:13:14,696 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:13:14,705 - AgentManager - INFO - Agent researcher created successfully
+2024-12-30 16:13:20,611 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:13:20,613 - AgentManager - INFO - Agent writer created successfully
+2024-12-30 16:14:42,542 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-040e28248e945b473/act "HTTP/1.1 200 OK"
+2024-12-30 16:14:45,078 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-040e28248e945b473/stop "HTTP/1.1 200 OK"
+2024-12-30 16:14:45,081 - AgentManager - INFO - Agent researcher stopped successfully
+2024-12-30 16:14:48,311 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-061113923e132daf5/stop "HTTP/1.1 200 OK"
+2024-12-30 16:14:48,311 - AgentManager - INFO - Agent writer stopped successfully
+2024-12-30 16:16:08,693 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:16:08,697 - AgentManager - INFO - Agent researcher created successfully
+2024-12-30 16:16:44,046 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:16:44,048 - AgentManager - INFO - Agent writer created successfully
+2024-12-30 16:17:18,023 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-0d4bf6493617a533f/act "HTTP/1.1 500 Internal Server Error"
+2024-12-30 16:17:18,024 - AgentManager - ERROR - Attempt 1 failed for researcher: status_code: 500, body: {'detail': 'Error during agent action: 502: Error communicating with container: '}
+2024-12-30 16:18:32,737 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:18:32,741 - AgentManager - INFO - Agent researcher created successfully
+2024-12-30 16:19:05,502 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:19:05,505 - AgentManager - INFO - Agent writer created successfully
+2024-12-30 16:19:57,113 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-066a661ff10c5b432/act "HTTP/1.1 200 OK"
+2024-12-30 16:19:59,503 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-066a661ff10c5b432/stop "HTTP/1.1 200 OK"
+2024-12-30 16:19:59,505 - AgentManager - INFO - Agent researcher stopped successfully
+2024-12-30 16:20:02,053 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-082bf215e49bc2649/stop "HTTP/1.1 200 OK"
+2024-12-30 16:20:02,055 - AgentManager - INFO - Agent writer stopped successfully
+2024-12-30 16:23:23,452 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:23:23,457 - AgentManager - INFO - Agent researcher created successfully
+2024-12-30 16:23:29,594 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:23:29,596 - AgentManager - INFO - Agent writer created successfully
+2024-12-30 16:24:20,662 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-090aa5d9150ccce3f/act "HTTP/1.1 200 OK"
+2024-12-30 16:24:23,368 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-090aa5d9150ccce3f/stop "HTTP/1.1 200 OK"
+2024-12-30 16:24:23,370 - AgentManager - INFO - Agent researcher stopped successfully
+2024-12-30 16:24:26,406 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-026d9dadfb4ad0906/stop "HTTP/1.1 200 OK"
+2024-12-30 16:24:26,406 - AgentManager - INFO - Agent writer stopped successfully
+2024-12-30 16:27:18,234 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:27:18,255 - AgentManager - INFO - Agent researcher created successfully
+2024-12-30 16:27:49,567 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:27:49,569 - AgentManager - INFO - Agent writer created successfully
+2024-12-30 16:29:28,230 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-0b0cdd64d922ede05/act "HTTP/1.1 200 OK"
+2024-12-30 16:29:30,722 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-0b0cdd64d922ede05/stop "HTTP/1.1 200 OK"
+2024-12-30 16:29:30,723 - AgentManager - INFO - Agent researcher stopped successfully
+2024-12-30 16:29:32,908 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-08430855091b48fa9/stop "HTTP/1.1 200 OK"
+2024-12-30 16:29:32,909 - AgentManager - INFO - Agent writer stopped successfully
+2024-12-30 16:31:43,716 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:31:43,721 - AgentManager - INFO - Agent researcher created successfully
+2024-12-30 16:31:49,408 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:31:49,409 - AgentManager - INFO - Agent writer created successfully
+2024-12-30 16:32:22,821 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:32:22,823 - AgentManager - INFO - Agent formatter created successfully
+2024-12-30 16:32:56,356 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-0cd70034969ce1a11/act "HTTP/1.1 500 Internal Server Error"
+2024-12-30 16:32:56,357 - AgentManager - ERROR - Attempt 1 failed for researcher: status_code: 500, body: {'detail': 'Error during agent action: 502: Error communicating with container: '}
+2024-12-30 16:34:16,409 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-0cd70034969ce1a11/act "HTTP/1.1 200 OK"
+2024-12-30 16:34:18,583 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-0cd70034969ce1a11/stop "HTTP/1.1 200 OK"
+2024-12-30 16:34:18,584 - AgentManager - INFO - Agent researcher stopped successfully
+2024-12-30 16:34:20,707 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-013558a0b629ef4cb/stop "HTTP/1.1 200 OK"
+2024-12-30 16:34:20,708 - AgentManager - INFO - Agent writer stopped successfully
+2024-12-30 16:34:22,797 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-069b10741dcb1a10a/stop "HTTP/1.1 200 OK"
+2024-12-30 16:34:22,798 - AgentManager - INFO - Agent formatter stopped successfully
+2024-12-30 16:41:17,098 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:41:17,105 - AgentManager - INFO - Agent researcher created successfully
+2024-12-30 16:41:52,812 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:41:52,813 - AgentManager - INFO - Agent writer created successfully
+2024-12-30 16:42:26,617 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-00834e98b561d3ae4/act "HTTP/1.1 500 Internal Server Error"
+2024-12-30 16:42:26,618 - AgentManager - ERROR - Attempt 1 failed for researcher: status_code: 500, body: {'detail': 'Error during agent action: 502: Error communicating with container: '}
+2024-12-30 16:45:18,405 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:45:18,417 - AgentManager - INFO - Agent researcher created successfully
+2024-12-30 16:45:50,916 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/start "HTTP/1.1 200 OK"
+2024-12-30 16:45:50,917 - AgentManager - INFO - Agent writer created successfully
+2024-12-30 16:47:18,270 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-0c5667f639b6546f3/act "HTTP/1.1 200 OK"
+2024-12-30 16:47:20,632 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-0c5667f639b6546f3/stop "HTTP/1.1 200 OK"
+2024-12-30 16:47:20,634 - AgentManager - INFO - Agent researcher stopped successfully
+2024-12-30 16:47:22,616 - httpx - INFO - HTTP Request: POST https://api.scrapybara.com/v1/instance/i-049cff1817f76f38c/stop "HTTP/1.1 200 OK"
+2024-12-30 16:47:22,617 - AgentManager - INFO - Agent writer stopped successfully
