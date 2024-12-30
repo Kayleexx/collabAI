@@ -71,8 +71,8 @@ collaborative_agents
 ### Running the Framework
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/collaborative_agents.git
-   cd collaborative_agents
+   git clone https://github.com/Kayleexx/collabAI.git
+   cd collabAI
    ```
 2. Run the main script:
    ```bash
