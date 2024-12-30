@@ -1,6 +1,6 @@
-# Collaborative Agents Framework
+# CollabAI
 
-This repository contains the **Collaborative Agents Framework**, a project designed to demonstrate multi-agent collaboration on shared tasks. The system allows multiple agents to work towards a common goal by conducting research, writing notes, and generating reports. This enhanced version incorporates dynamic communication between agents, scalability for additional tasks, state monitoring, and error recovery mechanisms. Developed as a submission for Scrapybara's Bounty Force.
+CollabAI is a framework designed to demonstrate multi-agent collaboration on shared tasks. The system allows multiple agents to work towards a common goal by conducting research, writing notes, and generating reports using Scrapybara's API. This also incorporates dynamic communication between agents, scalability for additional tasks, state monitoring, and error recovery mechanisms. Developed as a submission for Scrapybara's Bounty Force.
 
 ---
 
@@ -135,24 +135,7 @@ We welcome contributions to enhance this framework. To contribute:
 3. Commit your changes and create a pull request.
 
 ---
-
-## Future Enhancements
-1. **Dashboard for Agent Monitoring**:
-   - Visualize agent states and performance in real-time.
-2. **Expanded Agent Tasks**:
-   - Add agents for additional functionalities like data visualization or advanced report generation.
-3. **AI Model Integration**:
-   - Use AI models to improve research accuracy and report quality.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## Contact
 For questions or feedback, reach out at:
-- Email: your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: mitalisinha774@gmail.com
 
